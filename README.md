@@ -2,7 +2,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bukkiee20&theme=nightowl&show_icons=true" />
 <img align="left" width="47%" height="260vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukkiee20&theme=nightowl&show_icons=true" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bukkie20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bukkiee20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 :mailbox: Looking for me!
 
